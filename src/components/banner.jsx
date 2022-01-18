@@ -7,7 +7,6 @@ const Banner = () => {
       <ContentP>Dez anos após a tentativa frustrada de invasão do planeta Naboo, Obi-Wan Kenobi, Anakin Skywalker e Padmé Amidala estão juntos novamente. Neste período de tempo Obi-Wan passou de aprendiz a professor dos ensinamentos jedi para Anakin, sendo que ambos foram...</ContentP>
       <BtnAssistir>Assistir</BtnAssistir>
       <BtnInfo>Mais Informações</BtnInfo>
-      <Clasificacao>L</Clasificacao>
     </Content>
   </Section>
 }
