@@ -1,4 +1,4 @@
-import { Section, Content, ContentTitle, ContentP, BtnAssistir, BtnInfo, Clasificacao } from "./styles/styleIndex";
+import { Section, Content, ContentTitle, ContentP, BtnAssistir, BtnInfo } from "./styles/styleIndex";
 
 const Banner = () => {
   return <Section>

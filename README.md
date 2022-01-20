@@ -15,15 +15,17 @@ Table of Contents
 
 ## About project
 
+This project i made a clone of NetFlix using React. 
 
 In this project i used:
 
 * [Create React App](https://github.com/facebook/create-react-app) to start the project.
+* [Styled Components](https://styled-components.com/) to styled the project.
 
 ## 🛠 Technologies
 
 The following tools were used in the construction of the project:
-(ADICIONAR TODAS AS TECNOLOGIAS UTILIZADAS NO PROJETO)
+
 - [React](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 
@@ -32,7 +34,8 @@ The following tools were used in the construction of the project:
 
 
 <div align="center">
-  <img alt="FinalExample" title="#FinalExample" src="CAMINHO DA IMAGEM" />
+  <img alt="FinalExample" title="#FinalExample" src="src/components/img/screenshot/finalResult.png" />
+  <img alt="CouroselResult" title="#CouroselResult" src="src/components/img/screenshot/carouselResult.png" />
 </div>
 
 

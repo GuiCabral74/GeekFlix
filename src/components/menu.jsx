@@ -8,8 +8,8 @@ import {
   DivImgs,
   Link,
 } from "./styles/styleIndex";
-import lupa from "./img/lupa2-svg.svg";
-import sino from "./img/bell.svg";
+import Search from "./img/lupa2-svg.svg";
+import Bell from "./img/bell.svg";
 
 const Menu = () => {
   return (
@@ -24,8 +24,8 @@ const Menu = () => {
         </Ul>
       </DivList>
       <DivImgs>
-        <a href="#"><IconSvg src={lupa} /></a>
-        <a href="#"><IconSvg src={sino} alt="sino" /></a>
+        <a href="#"><IconSvg src={Search} alt="Search"/></a>
+        <a href="#"><IconSvg src={Bell} alt="Bell" /></a>
         <a href="#"><IconSvg style={{"width": "45px","marginTop": "15px" }}
           src="https://img.icons8.com/glyph-neue/64/000000/name.png"
           alt="Perfil"

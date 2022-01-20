@@ -128,20 +128,25 @@ export const Movie = styled.img`
   width: ${props => props.width};
   height: ${props => props.height};
   margin-right: 0.938rem;
+  transition: all .2s ease-in-out;
+  &:hover {
+    transform: translate(0, -3.125rem);
+    margin-top: 3.125rem;
+  }
 `;
 
 /**MOVIE LIST */
 
 export const ContainerList = styled.section`
   background-color: #141414;
-  padding-top: 1.25rem;
+  padding: 1.25rem 0;
 `;
 
 export const SubTitle = styled.h3`
-  color: ${props => props.color};
+  color: #fff;
   font-size: 1.4vw;
   line-height: 1.25vw;
-  margin-left: 100px;
+  margin-left: 6.25rem;
 `
 
 export const Carousel = styled.div`
