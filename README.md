@@ -23,7 +23,7 @@ In this project i used:
 
 * [Create React App](https://github.com/facebook/create-react-app) to start the project.
 * [Styled Components](https://styled-components.com/) to styled the project.
-* [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=pt-br) firebase hosting to put the project online.
+* [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=pt-br) to put the project online.
 
 ## 🛠 Technologies
 
