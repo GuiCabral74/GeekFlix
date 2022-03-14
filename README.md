@@ -1,7 +1,7 @@
 # GeekFlix
 
 <h4 align="center">
-	🚧  Incomplete  🚧
+	🚧  Complete  🚧
 </h4>
 
 Table of Contents
