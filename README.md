@@ -23,6 +23,7 @@ In this project i used:
 
 * [Create React App](https://github.com/facebook/create-react-app) to start the project.
 * [Styled Components](https://styled-components.com/) to styled the project.
+* [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=pt-br) firebase hosting to put the project online.
 
 ## 🛠 Technologies
 
@@ -30,6 +31,7 @@ The following tools were used in the construction of the project:
 
 - [React](https://pt-br.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
+- [Firebase](https://firebase.google.com/docs/hosting?hl=pt-br)
 
 
  ##  Preview of Project
