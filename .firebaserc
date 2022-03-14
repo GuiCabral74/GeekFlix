@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "geekflix74",
+    "staging": "geekflix74"
+  },
+  "targets": {}
+}

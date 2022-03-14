@@ -125,13 +125,16 @@ export const BtnInfo = styled.a`
 /**CARD */
 
 export const Movie = styled.img`
-  width: ${props => props.width};
-  height: ${props => props.height};
+  //width: ${props => props.width};
+  //height: ${props => props.height};
+
+  width: 12.5rem;
+  
   margin-right: 0.938rem;
-  transition: all .2s ease-in-out;
+  transition: transform 0.2s;
   &:hover {
-    transform: translate(0, -3.125rem);
-    margin-top: 3.125rem;
+    transform: scale(1.1);
+    height: auto;
   }
 `;
 
@@ -151,10 +154,12 @@ export const SubTitle = styled.h3`
 
 export const Carousel = styled.div`
   display: flex;
+  align-items: center;
   overflow-x: hidden;
   max-width: 85vw;
   margin: 0 auto;
   scroll-behavior: smooth;
+  height: 350px;
 `;
 
 export const DivArrow = styled.div`
